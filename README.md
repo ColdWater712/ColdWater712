@@ -1,10 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=ColdWater712&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ColdWater712">
-    <img src="https://komarev.com/ghpvc/?username=ColdWater712&label=Profile%20views&color=00FFFF&style=flat-square" alt="ColdWater712's profile views" />
-  </a>
-</p>
 
 <img src="https://media1.tenor.com/m/mdLH1MiNlhgAAAAd/poking-screen-poke.gif" alt="Banner" width="100%" />
 
